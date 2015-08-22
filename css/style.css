@@ -1,0 +1,54 @@
+html {
+    background-color: black;
+}
+body {
+    background-color: black;
+    width: 650px;
+    margin: 25px;
+    padding: 25px;
+    font-family: sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: underline;
+}
+
+.container {
+    background-color: grey;
+    width: 600px;
+    padding: 75px;
+    margin: -20px auto;
+    border: 2px solid white;
+}
+
+p {
+    display: block;
+    text-overflow: clip;
+}
+
+p2 {font-family: sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
+img {
+    padding: 10px;
+    border: 2px solid white;
+    align-content: right;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+h3 {
+    font-feature-settings: uppercase;
+}
+
+nav {
+    text-align: center;
+}
